@@ -1,0 +1,4 @@
+SP06	Kem Tràng Tiền	Chiếc	Tràng Tiền	25000	20000	40
+SP01	Ngũ cốc	gói	Tràng tiền	9000	4000	90
+SP02	Bim bim	gói	Vinmart	10000	5000	90
+SP03	Bò khô	gói	Abc	50000	30000	50
